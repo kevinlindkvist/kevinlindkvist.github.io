@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm a software engineer at Google, working on design tools. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is mainly a place for me to collect my (oftentimes faulty, I'm sure) solutions to various different materials that I am working through. If you find any errors, please let me know either via email or via a pull request. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find the source code for a lot of the exercise solutions on [my github.](https://github.com/kevinlindkvist/)
