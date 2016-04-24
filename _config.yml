@@ -16,5 +16,5 @@ twitter_username: kevinlindkvist
 github_username:  kevinlindkvist
 
 # Build settings
-markdown: kramdown
+markdown: kramdown 
 include: ['_pages']
