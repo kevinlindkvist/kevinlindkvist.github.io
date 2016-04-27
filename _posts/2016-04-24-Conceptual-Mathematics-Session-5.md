@@ -2,6 +2,8 @@
 layout: post
 title: Conceptual Mathematics - Session 5
 ---
+These are my solutions to the exercises in [Conceptual Mathematics](http://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/ref=sr_1_1?ie=UTF8&qid=1461549144&sr=8-1&keywords=conceptual+mathematics). It's a great book.
+
 ### **Exercise 1**
 
 #### (a) Show that if there is a map $g$ for which $h=g\circ{f}$, the for any pair $a_1,a_2$ of points $\Bbb{1}\rightarrow A$ of the domain $A$ of $f$ (and of $h$) we have: <br/> $\qquad$if $fa_1=fa_2$ then $ga_1=ga_2$. <br/> (So, if for some pair of points one has $fa_1=fa_2$ but $ha_1\ne ha_2$, then $h$ is not determined by $f$.)

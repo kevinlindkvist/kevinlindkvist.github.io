@@ -2,6 +2,8 @@
 layout: post
 title: Conceptual Mathematics - Session 4
 ---
+These are my solutions to the exercises in [Conceptual Mathematics](http://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/ref=sr_1_1?ie=UTF8&qid=1461549144&sr=8-1&keywords=conceptual+mathematics). It's a great book.
+
 ### **Exercise 1**
 
 #### Finish checking that $d$ is an isomorphism in our category by showing that $h\circ{d}$ and $d\circ{h}$ are indeed identity maps.
