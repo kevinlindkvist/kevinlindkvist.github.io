@@ -106,7 +106,7 @@ Thus it follows that $t_1=t_2$.
 
 #### Prove that the composite of two maps, each having sections, has itself a section.
 
-Let $s_1$ be the retraction of $A\xrightarrow{f}B$, and $s_2$ be the section of $B\xrightarrow{g}C$. A possible solution for $s$, the section of the composite $g\circ{f}$ would seem to be $s_1\circ{s_2}$.
+Let $s_1$ be the section of $A\xrightarrow{f}B$, and $s_2$ be the section of $B\xrightarrow{g}C$. A possible solution for $s$, the section of the composite $g\circ{f}$ would seem to be $s_1\circ{s_2}$.
 
 $g\circ{f}\circ{s_1}\circ{s_2}=g\circ{1_B}\circ{s_2}=g\circ{s_2}=1_C$.
 
