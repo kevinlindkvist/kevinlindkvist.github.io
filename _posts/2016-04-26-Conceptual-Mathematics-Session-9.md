@@ -26,7 +26,7 @@ $r'' \circ{g}\circ{f}=r'\circ{r}\circ{g}\circ{f}=r'\circ{f}=1_A$.
 
 ### **Exercise 3**
 
-#### (In any category) Suppose that both $A\underset{r}{\overset{s}{\rightleftarrows}}B$ and $A'\underset{r'}{\overset{s'}{\rightleftarrow}}B$ split the same idempotent $B\xrightarrow{e}B$. Use these maps to construct an isomorphism $A\xrightarrow{f}A'$.
+#### (In any category) Suppose that both $A\underset{r}{\overset{s}{\rightleftarrows}}B$ and $A'\underset{r'}{\overset{s'}{\rightleftarrows}}B$ split the same idempotent $B\xrightarrow{e}B$. Use these maps to construct an isomorphism $A\xrightarrow{f}A'$.
 
 Choose $f=r'\circ{s}$ and $g=r\circ{s'}$.
 
