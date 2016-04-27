@@ -18,4 +18,4 @@ Yes, we can construct $g$ in such a way that $g(f(a))=h(a)$. We can do this sinc
 
 #### (a) Show that if there is an $f$ with $g\circ{f}=h$, then $h$ and $g$ satisfy: For any $a$ in $A$ there is at least one $b$ in $B$ for which $h(a)=g(b)$.
 
-Choose some $a$. Call $f(a)=b$. Now $g(b)=h(a)$ otherwise $g\circ{f}\ne{h}$.
+For all $a$, let $f(a)=b$. Now $g(b)=h(a)$ otherwise $g\circ{f}\ne{h}$.
