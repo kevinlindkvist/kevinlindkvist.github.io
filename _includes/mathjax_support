@@ -3,7 +3,8 @@
     TeX: {
       equationNumbers: {
         autoNumber: "AMS"
-      }
+      },
+      extensions: ["enclose.js"],
     },
     tex2jax: {
       inlineMath: [ ['$','$'] ],

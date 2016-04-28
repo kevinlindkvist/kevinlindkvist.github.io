@@ -12,11 +12,11 @@ Imagine $A=\lbrace a_1 \rbrace$ and $B=\lbrace b_1,b_2 \rbrace$. Let $f(a_1)=b_1
 
 ### **Question 2** 
 
-#### If $C\underset{q}{\overset{p}{\rightleftarrows}}D$ satisfy $p\circ{q}\circ{p}=p$, can you conclude that<br/>$\qquad$(a)$p\circ{q} is idempotent? If so, how?
+#### If $C\underset{q}{\overset{p}{\rightleftarrows}}D$ satisfy $p\circ{q}\circ{p}=p$, can you conclude that<br/>$\qquad$(a) $p\circ{q}$ is idempotent? If so, how?
 
 We know $pqp=p$. $pqpq=(pqp)q=pq$, Thus $pq$ is idempotent.
 
-#### $\qquad$(b)$q\circ{p}$ is idempotent? If so, how? 
+#### $\qquad$(b) $q\circ{p}$ is idempotent? If so, how? 
 
 By the same logic as in (a), $qpqp=q(pqp)=qp$. 
 
