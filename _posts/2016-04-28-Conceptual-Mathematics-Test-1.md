@@ -2,6 +2,7 @@
 layout: post
 title: Conceptual Mathematics - Test 1
 ---
+These are my solutions to the exercises in [Conceptual Mathematics](http://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/ref=sr_1_1?ie=UTF8&qid=1461549144&sr=8-1&keywords=conceptual+mathematics). It's a great book.
 
 ### **Question 1**
 
@@ -27,10 +28,12 @@ $\begin{array}{l} s(\beta)=Aurelio \end{array}$
 
 ### **Question 2**
 
-#### $\Bbb{R}$ is the set of all real numbers, and $\Bbb{R}\xrightarrow{f}\Bbb{R}$ is the map given by the explicit formula $f(x)=4x-7$ for each input $x$. Show that $f$ has an inverse map. To do this, give an explicit formula for the inverse map $g$, and then show that<br/>$\qquad (a) \quad (g\circ{f})(x)=x$, for each real number $x$, and that<br/>$\qquad (b) \quad (f\circ{g})(x)=x$ for each real number $x$.
+#### $\Bbb{R}$ is the set of all real numbers, and $\Bbb{R}\xrightarrow{f}\Bbb{R}$ is the map given by the explicit formula $f(x)=4x-7$ for each input $x$. Show that $f$ has an inverse map. To do this, give an explicit formula for the inverse map $g$, and then show that<br/>$\qquad (a) \quad (g\circ{f})(x)=x$, for each real number $x$
 
 $g=\frac{x+7}{4}$.
 
 $(g\circ{f})(x)=g(f(x))=g(4x-7)=\frac{(4x-7)+7}{4}=x$.
+
+#### $\qquad (b) \quad (f\circ{g})(x)=x$ for each real number $x$.
 
 $(f\circ{g})(x)=f(g(x))=f(\frac{x+7}{4})=4(\frac{x+7}{4})-7=x+7-7=x$.

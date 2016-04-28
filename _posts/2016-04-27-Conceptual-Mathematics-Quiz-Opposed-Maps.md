@@ -2,6 +2,8 @@
 layout: post
 title: Conceptual Mathematics - Quiz Opposed Maps
 ---
+These are my solutions to the exercises in [Conceptual Mathematics](http://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X/ref=sr_1_1?ie=UTF8&qid=1461549144&sr=8-1&keywords=conceptual+mathematics). It's a great book.
+
 ### **Question 0**
 
 #### $A\underset{g}{\overset{f}{\rightleftarrows}}B$
